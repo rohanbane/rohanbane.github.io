@@ -1,5 +1,6 @@
 // Get a reference to the <path>
-var path = document.querySelector('#star-path');
+// var path = document.querySelector('#star-path');
+var path = document.querySelector('#name');
 
 // Get length of path... ~577px in this case
 var pathLength = path.getTotalLength();
