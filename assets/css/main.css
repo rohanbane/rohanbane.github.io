@@ -132,7 +132,7 @@ img {
     width: 100%;
     z-index: 5;
     background-color: #FFF;
-    padding: 70px 0;
+    padding: 10px 0;
     transition-delay: 0s;
     transition-duration: 0.4s;
     transition-property: all;
