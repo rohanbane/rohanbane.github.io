@@ -274,7 +274,7 @@ img {
 
 .ds-about-section {
     padding-top: 60px;
-    padding-bottom: 120px;
+    padding-bottom: 20px;
 }
 
 .ds-heading {
@@ -326,7 +326,7 @@ img {
 ----------------------------------------------------------------*/
 
 .ds-skills-section {
-    padding-bottom: 105px;
+    padding-bottom: 20px;
 }
 
 .ds-skills-list {
@@ -358,7 +358,7 @@ img {
 ----------------------------------------------------------------*/
 
 .ds-experience-section {
-    padding-bottom: 120px;
+    padding-bottom: 20px;
 }
 
 .ds-experience-list section {
