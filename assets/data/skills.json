@@ -1,0 +1,17 @@
+{
+  "skills": [
+    { "name": "TypeScript" },
+    { "name": "JavaScript" },
+    { "name": "Node.js" },
+    { "name": "Java" },
+    { "name": "Python" },
+    { "name": "HTML-CSS" },
+    { "name": "AWS" },
+    { "name": "AWS CDK" },
+    { "name": "Docker" },
+    { "name": "Jenkins" },
+    { "name": "REST-APIs" },
+    { "name": "Abby FlexiCapture (OCR)" },
+    { "name": "SpringBoot" }
+  ]
+}

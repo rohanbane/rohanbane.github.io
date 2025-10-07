@@ -1,0 +1,25 @@
+{
+  "projects": [
+    {
+      "title": "Infrastructure Automation (CIA)",
+      "description": "AWS CDK-based configuration driven solution to improve security and observability for customer infrastructure.",
+      "tech": ["AWS", "AWS CDK", "TypeScript", "Node.js"],
+      "repo": "",
+      "demo": ""
+    },
+    {
+      "title": "Flexicapture OCR Integration",
+      "description": "Integrated Abby FlexiCapture with a forms manager to streamline insurance sales intake.",
+      "tech": ["Java", "SpringBoot", "Abby FlexiCapture (OCR)"],
+      "repo": "",
+      "demo": ""
+    },
+    {
+      "title": "Custom Media Compression",
+      "description": "Algorithm development for media compression and optimized storage.",
+      "tech": ["Java", "SpringBoot"],
+      "repo": "",
+      "demo": ""
+    }
+  ]
+}
