@@ -1,0 +1,36 @@
+{
+  "experience": [
+    {
+      "company": "Capgemini",
+      "role": "Senior Consultant – Audi Design Platform",
+      "period": "Jan 2025 – Current",
+      "location": "",
+      "summary": "Lead infrastructure consultant and team lead for Audi Design Platform. Worked on AWS CDK infra, Cognito, Lambda, API Gateway and integrated AI tools.",
+      "details": [
+        "Led a 5-member team as the team lead and infrastructure consultant.",
+        "Designed and implemented AWS CDK-based infrastructure (Cognito, EC2, CloudWatch, Lambdas).",
+        "Integrated AI tools like Stable Diffusion for workflows and automation."
+      ]
+    },
+    {
+      "company": "Everestek Technosoft Solutions (FINEOS)",
+      "role": "Senior Software Developer – CIA",
+      "period": "Feb 2022 – Aug 2024",
+      "location": "",
+      "summary": "Built features for internal AWS infrastructure and designed monitoring, CI/CD and cost optimization strategies.",
+      "details": [
+        "Improved security, observability and cost-effectiveness of AWS infra.",
+        "Designed CI/CD, testing, patching, release and monitoring pipelines."
+      ]
+    },
+    {
+      "company": "Spraoi - KwikCover",
+      "role": "Senior Software Developer",
+      "period": "Nov 2021 – Mar 2022",
+      "summary": "Developed APIs for Insurance Agent portal and reporting modules.",
+      "details": [
+        "Worked on SpringBoot, Java, NodeJS and REST-APIs for reporting and sales."
+      ]
+    }
+  ]
+}
